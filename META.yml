@@ -17,7 +17,8 @@ no_index:
   directory:
     - t
     - inc
+    - eg
 requires:
   Nginx::Perl: 0
   Redis::Parser::XS: 0
-version: v1.1.12.2
+version: v1.1.12.3
