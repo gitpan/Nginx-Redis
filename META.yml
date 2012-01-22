@@ -19,6 +19,6 @@ no_index:
     - inc
     - eg
 requires:
-  Nginx::Perl: 0
+  Nginx::Perl: v1.1.13.1
   Redis::Parser::XS: 0
-version: v1.1.12.3
+version: v1.1.12.4
